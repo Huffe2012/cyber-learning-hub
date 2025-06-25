@@ -17,5 +17,6 @@ Staying informed on cybersecurity trends, past and present breaches, and industr
 - **Professor Messer**
 - **Simpli Learn Official**
 
-# Books #
-- **CyberSecurity Blue Team Toolkit**  
+# Other Resources #
+- **CyberSecurity Blue Team Toolkit**
+- **Udemy Courses** 
