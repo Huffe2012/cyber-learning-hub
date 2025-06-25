@@ -20,4 +20,5 @@ Staying informed on cybersecurity trends, past and present breaches, and industr
 # Books #
 - **CyberSecurity Blue Team Toolkit**  
 
-![Cyberwire Daily](https://github.com/user-attachments/assets/03703c42-1892-43e8-8014-c88a4234a967)![Darknet Diaries](https://github.com/user-attachments/assets/d8729320-9922-4b96-b568-e6c829fc6c0a)!![Hacked](https://github.com/user-attachments/assets/e8dee825-6a44-4106-9b87-049f77ff839b)
+![Cyberwire Daily](https://github.com/user-attachments/assets/03703c42-1892-43e8-8014-c88a4234a967)![Darknet Diaries](https://github.com/user-attachments/assets/d8729320-9922-4b96-b568-e6c829fc6c0a)!![Hacked](https://github.com/user-attachments/assets/e8dee825-6a44-4106-9b87-049f77ff839b)![Blue team](https://github.com/user-attachments/assets/13921df0-7231-4d62-8188-ea773d4cc7a0)
+
