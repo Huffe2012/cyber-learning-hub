@@ -1,4 +1,5 @@
 ## Cyber-Learning-Hub
+Staying informed on cybersecurity trends, past and present breaches, and industry developments is a top priority for me. I rely on the following trusted resources to stay current.
 
 # 🎧Podcasts #  
 - **CyberWire Daily**
